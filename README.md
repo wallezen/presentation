@@ -1,6 +1,8 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/what-is-gitpitch)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/the-template)
 
-# The GitPitch Elevator Pitch
+# GitPitch - The Template
 
-If I had 30 seconds of your time this is how I would introduce you to **GitPitch**.
+*THE FASTEST WAY FROM IDEA TO PRESENTATION*
+
+For details, see the complete template documentation [here](https://gitpitch.com/docs/the-template).
 
