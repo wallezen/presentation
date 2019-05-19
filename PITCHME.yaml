@@ -58,6 +58,6 @@ transition : none
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "What is GitPitch?"
-description : "GitPitch is a modern slideshow presentation service for developers on GitHub, GitLab, and Bitbucket."
-thumbnail : https://gitpitch.com/gpimg/tech-knowledge-thumb.jpg
+title : "GitPitch - The Quickstart Template"
+description : "High-utility markdown slide templates for GitPitch presentation authors."
+thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
